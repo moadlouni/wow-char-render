@@ -1,0 +1,14 @@
+{
+  "resourceName": "wowcharrenders3",
+  "policyUUID": "51a2da3f",
+  "bucketName": "wowcharrendercbd81e0c5c8346fe8e02152e97977197",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

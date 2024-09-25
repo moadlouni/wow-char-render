@@ -1,0 +1,14 @@
+projects:
+  wowcharrender:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - queries
+      - mutations
+      - subscriptions
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: typescript
+        generatedFileName: src/API.ts
+        docsFilePath: .

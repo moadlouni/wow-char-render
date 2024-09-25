@@ -1,0 +1,26 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wowcharrender-prod-6a847-authRole",
+      "UnauthRoleArn": "arn:aws:iam::970547365890:role/amplify-wowcharrender-prod-6a847-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::970547365890:role/amplify-wowcharrender-prod-6a847-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-wowcharrender-prod-6a847-deployment",
+      "UnauthRoleName": "amplify-wowcharrender-prod-6a847-unauthRole",
+      "StackName": "amplify-wowcharrender-prod-6a847",
+      "StackId": "arn:aws:cloudformation:us-east-1:970547365890:stack/amplify-wowcharrender-prod-6a847/28976150-7b59-11ef-b94f-0e0ca44b21bf",
+      "AmplifyAppId": "d18326krn2nlqk"
+    },
+    "categories": {
+      "auth": {
+        "wowcharrenderb2a8e6b9": {}
+      },
+      "api": {
+        "wowcharrender": {}
+      },
+      "storage": {
+        "wowcharrenders3": {}
+      }
+    }
+  }
+}
